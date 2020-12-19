@@ -1,0 +1,17 @@
+﻿
+bababa NO
+abbbab YES
+aaabbb NO
+aaaabbb YES
+---
+0 = 0
+Letter: 
+4 1 5  OR 
+---
+1 = 1
+Letter: 
+2 3  OR 3 2  OR 
+---
+2 = 2
+Letter: 
+4 4
