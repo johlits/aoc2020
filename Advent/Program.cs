@@ -7,8 +7,8 @@ namespace Advent
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("day 23");
-            var advent = new Day23();
+            Console.WriteLine("day 24");
+            var advent = new Day24();
             advent.Run();
 
         }
